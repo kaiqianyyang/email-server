@@ -1,0 +1,6 @@
+USER mary.smith@example.com
+PASS mypasswordisstrongerthanyours
+STAT
+LIST
+DELE 1
+LIST
